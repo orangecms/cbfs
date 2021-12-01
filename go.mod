@@ -1,4 +1,4 @@
-module github.com/linuxboot/cbfs
+module github.com/orangecms/cbfs
 
 go 1.11
 
